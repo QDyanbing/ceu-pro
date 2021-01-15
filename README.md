@@ -1,2 +1,15 @@
-# ceu-cli
-通用项目脚手架
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
